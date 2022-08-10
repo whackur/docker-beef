@@ -1,4 +1,3 @@
 #!/bin/bash
-
-docker build -t isaudits/beef .
+docker build -t ioumelon7/beef .
 docker image prune -f

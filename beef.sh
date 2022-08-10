@@ -1,3 +1,2 @@
 #!/bin/bash
-
-docker run -it --rm -p 3000:3000 isaudits/beef
+docker run -it --rm -p 80:3000 ioumelon7/beef

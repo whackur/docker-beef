@@ -12,7 +12,7 @@ Override environment variables for ip addresses, credentials, etc with .env file
 
 Pull:
 
-    docker pull isaudits/beef
+    docker pull ioumelon7/beef
 
 or Build:
 
@@ -20,7 +20,7 @@ or Build:
     
 Run:
 
-    docker run -it --rm isaudits/beef
+    docker run -it --rm ioumelon7/beef
     
 or
     
